@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4faaca23.css",
-    "main.js": "/static/js/main.cf3407dc.js",
+    "main.js": "/static/js/main.2a2e592b.js",
     "index.html": "/index.html",
     "static/media/yin-yang.svg": "/static/media/yin-yang.dc95965dc3e0f4685ddd.svg",
     "main.4faaca23.css.map": "/static/css/main.4faaca23.css.map",
-    "main.cf3407dc.js.map": "/static/js/main.cf3407dc.js.map"
+    "main.2a2e592b.js.map": "/static/js/main.2a2e592b.js.map"
   },
   "entrypoints": [
     "static/css/main.4faaca23.css",
-    "static/js/main.cf3407dc.js"
+    "static/js/main.2a2e592b.js"
   ]
 }
