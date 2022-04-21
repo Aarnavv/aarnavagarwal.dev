@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.d95ee3bf.css",
-    "main.js": "/static/js/main.0cab12f2.js",
+    "main.css": "/static/css/main.37622442.css",
+    "main.js": "/static/js/main.da2a22c4.js",
     "index.html": "/index.html",
     "static/media/yin-yang.svg": "/static/media/yin-yang.dc95965dc3e0f4685ddd.svg"
   },
   "entrypoints": [
-    "static/css/main.d95ee3bf.css",
-    "static/js/main.0cab12f2.js"
+    "static/css/main.37622442.css",
+    "static/js/main.da2a22c4.js"
   ]
 }
